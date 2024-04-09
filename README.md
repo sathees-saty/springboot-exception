@@ -6,7 +6,7 @@ Implementing Exception Handling- 404 Resource Not Found
   <br>
 2)	Create Spring Starter project called springboot-exception
     <br>
-3)	Add Spring Web and and other dependiecis from https://start.spring.io
+3)	Add spring-boot-devtools, spring-webmvc and and other dependiecis from https://start.spring.io
     <br>
 4)	Click finish
   <br>
